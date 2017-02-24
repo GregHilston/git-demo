@@ -9,6 +9,9 @@
 		"alcoholic": {
 			"gin" : "qui gon gin",
 			"tequila": "millenium tom-collins"
+		},
+		"non-alcoholic":{
+			"soda": "coke"
 		}
 
 	}
